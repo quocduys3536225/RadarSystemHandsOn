@@ -1,0 +1,15 @@
+# C / Embedded
+*.o
+*.exe
+*.bin
+*.hex
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# C#
+bin/
+obj/
+*.user
